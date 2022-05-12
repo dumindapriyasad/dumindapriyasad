@@ -23,6 +23,7 @@
 <p>
   <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html"></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"></a>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"></a>
@@ -33,10 +34,8 @@
   <a href="https://wordpress.org/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
-  <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="json"></a>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
   <a href="https://gulpjs.com/" target="_blank"><img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="gulp"></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"></a>
   <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublimetext"></a>
   <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" alt="dreamweaver"></a>
