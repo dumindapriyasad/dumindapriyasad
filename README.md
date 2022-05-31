@@ -2,7 +2,7 @@
 ### 💫 About Me :
 - 💻 I'm a **Developer**
 - ⌨️ I like making fun, interactive things with **code**
-- 👨‍🎓 Software Engineering Undergraduate at **ESOFT Metro Campus, Sri Lanka** 🇱🇰
+- 👨‍🎓 Software Engineering Undergraduate at **ESOFT Metro Campus**
 - 🌱 I’m currently learning **everything**
 - ✋ I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **anything** I'm happy to help
