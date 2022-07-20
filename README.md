@@ -18,4 +18,5 @@
 ### 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=dumindapriyasad&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dumindapriyasad&hide_border=false&theme=tokyonight)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumindapriyasad&include_all_commits=true&langs_count=10&hide_border=false&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumindapriyasad&include_all_commits=true&langs_count=10&hide_border=false&theme=tokyonight)<br/>
+![](https://activity-graph.herokuapp.com/graph?username=dumindapriyasad&hide_border=false&radius=6&theme=react-dark)
