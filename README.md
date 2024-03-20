@@ -7,7 +7,7 @@
 - 🤝 I’m looking to collaborate on any project
 - 💬 Ask me about anything, I'm happy to help
 - 📧 How to reach me: duminda.priyasad@gmail.com
-- ⚡ Fun fact: I like to travel and listen to music ツ ✌🌏✈️🎧🎶🎵
+- ⚡ Fun fact: I like to travel and listen to music ツ✌🌏✈️🎧🎶🎵
 
 ### 🌐 Socials:
 
